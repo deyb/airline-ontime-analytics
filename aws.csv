@@ -1,0 +1,7 @@
+"Property","Value"
+"OS","GNU/Linux"
+"arch","x86_64"
+"Disk","SSD"
+"master-node","1"
+"core-node","2"
+"machine-type","m3.xlarge"

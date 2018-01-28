@@ -1,0 +1,6 @@
+"runtime","timeInMin","isHadoop"
+"Hadoop-Local",37.1,1
+"Spark-Local",8.16,0
+"Hadoop-AWS",40.0,1
+"Spark-AWS",11.0,0
+

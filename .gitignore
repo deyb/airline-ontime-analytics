@@ -1,0 +1,14 @@
+/target/
+/out
+/sout
+/input
+/input-small
+/A8.jar
+/A8S.jar
+/output.1110
+/spout
+/scout
+/.idea
+/.project
+/.settings
+/.metastore_db
