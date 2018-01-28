@@ -1,6 +1,12 @@
-# A8 - Ghost of Assignments Past
+#  Project name Airline On Time Performance Analytics 
 
-This project analyzes A4 - On-Time Performance Data
+This project analyzes On-Time Performance Dataset. Report can be found [here](https://github.com/deyb/airline-ontime-analytics/blob/master/report.pdf)
+
+On Time performance data consists of airport and airline data in USA across the past 30 years. The dataset size is 60 GB split across 330+ CSV files. Each file has 100+ fields. Only a few of the fields are relevant. The dataset requires significant cleaning before relevant information can be extracted.
+
+The project dived into seasonal trends across airports and airline delays. The delays were visualized over the past 30 years for the top 5 airports and airlines with maximum delays. The insights captured matched with the world events which led to those delays.
+
+The project functionality was replicated in Hadoop and Spark in AWS .
 
 Pre-requisites:
 1. Java (v1.8+)
